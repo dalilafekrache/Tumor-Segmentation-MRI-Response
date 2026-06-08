@@ -1,0 +1,11 @@
+# Fichier de configuration YOLOv8
+path: C:\Users\Admin\PycharmProjects\pythonProjectEssaie\yolov8_preparation\dataset  # Chemin de ton dataset
+
+train: C:\Users\Admin\PycharmProjects\pythonProjectEssaie\yolov8_preparation\dataset\images\train  # Dossier contenant les images d'entraînement
+val: C:\Users\Admin\PycharmProjects\pythonProjectEssaie\yolov8_preparation\dataset\images\val      # Dossier contenant les images de validation
+
+# Nombre de classes et leurs noms
+names:
+  0: "tumor"
+  1: "non tumor"
+ 

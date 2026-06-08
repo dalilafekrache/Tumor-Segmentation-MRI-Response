@@ -1,0 +1,43 @@
+
+
+
+# Medical images / data
+*.nii
+*.nii.gz
+
+# nnUNet generated files
+nnUNet/Train_Test_nnUNet/nnUNet_preprocessed/
+nnUNet/Train_Test_nnUNet/nnUNet_raw/
+nnUNet/Train_Test_nnUNet/nnUNet_results/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Models / weights
+*.pth
+*.pt
+*.ckpt
+*.ipynb_checkpoints/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# temp files
+~$*
+
+# VS Code
+.vscode/
+
+# Debug images and outputs
+debug/
+
+# Training outputs
+runs/
+outputs/
+results/
