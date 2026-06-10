@@ -18,7 +18,7 @@ The framework includes:
 * Comparative evaluation of multiple segmentation architectures
 * nnU-Net integration for large-scale medical segmentation
 * Segmentation quality assessment
-* AI-based MRI response prediction pipelines
+* AI-based MRI response prediction pipelines.
 
 This repository provides all scripts required to reproduce the experiments presented in the manuscript.
 
