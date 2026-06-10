@@ -1,7 +1,7 @@
-# High-Quality Tumor Segmentation Boosts AI-Based MRI Response Assessment of Breast Cancer
+# Impact of Tumor Segmentation Quality on Radiomics-Based Prediction of Breast Cancer Treatment Response in MRI
 
 Official implementation of the manuscript:
-**"High-Quality Tumor Segmentation Boosts AI-Based MRI Response Assessment of Breast Cancer"**, submitted to *The Visual Computer*.
+**"Impact of Tumor Segmentation Quality on Radiomics-Based Prediction of Breast Cancer Treatment Response in MRI"**, submitted to *Journal of Imaging Informatics in Medicine*.
 
 ---
 
