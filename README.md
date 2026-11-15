@@ -101,7 +101,8 @@ Data paths are defined at the top of each script and must be adapted to the loca
 ## Versions
 
 - **v1.0**: version associated with the initial submission.
-- **v2.0**: revised version accompanying the revision of the manuscript (repeated stratified cross-validation, permutation tests, false-positive propagation analysis, corrected Pipeline C).
+- **v2**: metadata update of the initial version (June 2026).
+- **v3.0**: revised version accompanying the revision of the manuscript (repeated stratified cross-validation, permutation tests, false-positive propagation analysis, corrected Pipeline C).
 
 ## Data availability
 
