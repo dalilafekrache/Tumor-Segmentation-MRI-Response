@@ -1,7 +1,7 @@
-# Impact of Tumor Segmentation Quality on Radiomics-Based Prediction of Breast Cancer Treatment Response in MRI
+# Impact of Tumor Segmentation Quality on MRI-Based Prediction of Breast Cancer Treatment Response: Propagation of Detection Errors in an Automated Pipeline
 
 Official implementation of the manuscript:
-**"Impact of Tumor Segmentation Quality on Radiomics-Based Prediction of Breast Cancer Treatment Response in MRI"**, submitted to *Journal of Imaging Informatics in Medicine*.
+**"Impact of Tumor Segmentation Quality on MRI-Based Prediction of Breast Cancer Treatment Response: Propagation of Detection Errors in an Automated Pipeline"**, submitted to *Journal of Imaging Informatics in Medicine*.
 
 ---
 
